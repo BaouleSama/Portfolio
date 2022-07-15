@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+body{
+  margin: 0;
+  text-align: center;
+  font-family:
+  color:#40514E;
+}
+
+h1{
+  font-size: 5.6rem;
+  margin-top: 50px auto 0 auto;
+  margin-bottom: 0;
+  font-family: "Sacramento", cursive;
+  color: #66BFBF;
+}
+h2{
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family:"Montsera", sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+  font-family:"Montsera", sans-serif;
+}
+
+span{
+  text-decoration: underline;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6;
+  width: 4%;
+  margin: 100px auto;
+  border-bottom: none;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.top-container{
+background-color: #E4F9F5;
+padding-top: 100px;
+position: relative;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.code-img{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+    border-radius: 20%;
+}
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+.middle-container{
+ margin:  100px 0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: : 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 30px;
+  top: 50px;
+}
+
+button{
+  background-image: linear-gradient(#11cdd4,#11999e);
+  color: white;
+  padding: .6em 1.4em;
+  border-radius: 8px;
+  border: none;
+}
+
+button:hover{
+  background-image: linear-gradient(#30e3cb,#2bc4ad);
+}
+
+.bottom-container{
+  margin-top: 50px;
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
+.footer-link{
+  font-family: "Montsera", sans-serif;
+  padding:20px;
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.bottom-container p {
+  color: #EAF6F6;
+}
+
+.contact-message{
+  width: 40%;
+  margin:  40px auto 60px;
+}
